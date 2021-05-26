@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [@RickoNoNo3](https://github.com/RickoNoNo3)
 - 👀 I’m interested in `Go`/`C#`/`Java`/`Dart`/`JavaScript`/`React`
-- 🌱 I’m currently learning: `Spring Boot`/`React Native`/`TypeScript`/`Rust`
+- 🌱 I’m currently learning: `Spring Boot`/`React Native`/`TypeScript`/`Python`/`Rust`
 - 💞️ I’m looking to collaborate on: [RickoNoNo3/m2obj](https://github.com/RickoNoNo3/m2obj)
 
 **来这地方敲我 -> [R崽的博客](http://blog.rickonono3.top)**
