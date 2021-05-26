@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: `Spring Boot`/`React Native`/`TypeScript`/`Python`/`Rust`
 - 💞️ I’m looking to collaborate on: [RickoNoNo3/m2obj](https://github.com/RickoNoNo3/m2obj)
 
-**来这地方敲我 -> [R崽的博客](http://blog.rickonono3.top)**
+**来这地方敲我 -> [R崽的博客](http://rickonono3.top)**
 
 <!---
 RickoNoNo3/RickoNoNo3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
