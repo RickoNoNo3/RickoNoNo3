@@ -1,11 +1,20 @@
-- 👋 Hi, I’m [@RickoNoNo3](https://github.com/RickoNoNo3)
-- 👀 I’m interested in `Go`/`C#`/`Java`/`Dart`/`JavaScript`/`React`
-- 🌱 I’m currently learning: `Spring Boot`/`React Native`/`TypeScript`/`Python`/`Rust`
-- 💞️ I’m looking to collaborate on: [RickoNoNo3/m2obj](https://github.com/RickoNoNo3/m2obj)
+# RickoNoNo3
 
-**来这地方敲我 -> [R崽的博客](http://rickonono3.top)**
+不著名秃头程序员 ---> [博客地址](http://rickonono3.top) / [博客仓库](https://github.com/rickonono3/r-blog)
 
-<!---
-RickoNoNo3/RickoNoNo3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://github-readme-stats.vercel.app/api?username=rickonono3&count_private=true&show_icons=true&include_all_commits=true&theme=highcontrast&locale=cn" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickonono3&theme=highcontrast&layout=compact&locale=cn" />
+
+## 欢迎合作 (Welcome to Contribute)
+
+<a href="https://github.com/rickonono3/m2obj">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickonono3&repo=m2obj&theme=highcontrast&locale=cn" />
+</a>
+&nbsp;
+<a href="https://github.com/rickonono3/m2obj">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickonono3&repo=killnicely&theme=highcontrast&locale=cn" />
+</a>
+&nbsp;
+<a href="https://github.com/rickonono3/m2obj">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickonono3&repo=r4quadrant&theme=highcontrast&locale=cn" />
+</a>
