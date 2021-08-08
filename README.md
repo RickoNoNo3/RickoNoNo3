@@ -11,20 +11,20 @@
 ## 欢迎合作 (Welcome for Contributing)
 
 <a href="https://github.com/rickonono3/m2obj">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickonono3&repo=m2obj&theme=highcontrast&locale=cn" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickonono3&repo=m2obj&theme=highcontrast&locale=cn&cache_seconds=1800" />
 </a>
 &nbsp;
 <a href="https://github.com/rickonono3/killnicely">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickonono3&repo=killnicely&theme=highcontrast&locale=cn" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickonono3&repo=killnicely&theme=highcontrast&locale=cn&cache_seconds=1800" />
 </a>
 &nbsp;
 <a href="https://github.com/rickonono3/r4quadrant">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickonono3&repo=r4quadrant&theme=highcontrast&locale=cn" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickonono3&repo=r4quadrant&theme=highcontrast&locale=cn&cache_seconds=1800" />
 </a>
 
 -----
 
-<img src="https://github-readme-stats.vercel.app/api?username=rickonono3&count_private=true&show_icons=true&include_all_commits=true&theme=highcontrast&locale=cn" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickonono3&theme=highcontrast&layout=compact&exclude_repo=R-Blog-Public-Library,R-Blog-IconFont,R-Blog-MathJax-Fonts,RZ-Blog,xv6-chinese,jquery-csv&langs_count=8&locale=en" />
+<img src="https://github-readme-stats.vercel.app/api?username=rickonono3&count_private=true&show_icons=true&include_all_commits=true&custom_title=RickoNoNo3%20%E7%9A%84%E6%91%B8%E9%B1%BC%E7%BB%9F%E8%AE%A1&theme=highcontrast&locale=cn&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickonono3&theme=highcontrast&layout=compact&exclude_repo=R-Blog-Public-Library,R-Blog-IconFont,R-Blog-MathJax-Fonts,RZ-Blog,xv6-chinese,jquery-csv&langs_count=8&locale=cn&cache_seconds=1800" />
 
 
