@@ -4,21 +4,21 @@
 
 <a href="#!"><img src="https://img.shields.io/badge/IDE-IntellJ%20IDEA-303030?style=flat-square&logo=IntelliJ%20IDEA" /></a>
 <a href="#!"><img src="https://img.shields.io/badge/Browser-Firefox-303030?style=flat-square&logo=Firefox" /></a>
-<a href="https://t.me/rickonono3" />
+<a href="https://t.me/rickonono3" target="_blank" />
   <img src="https://img.shields.io/badge/Telegram-RickoNoNo3-303030?style=flat-square&logo=Telegram" />
 </a>
 
 ## 欢迎合作 (Welcome for Contributing)
 
-<a href="https://github.com/rickonono3/m2obj">
+<a href="https://github.com/rickonono3/m2obj" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickonono3&repo=m2obj&theme=highcontrast&locale=cn&cache_seconds=1800" />
 </a>
 &nbsp;
-<a href="https://github.com/rickonono3/killnicely">
+<a href="https://github.com/rickonono3/killnicely" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickonono3&repo=killnicely&theme=highcontrast&locale=cn&cache_seconds=1800" />
 </a>
 &nbsp;
-<a href="https://github.com/rickonono3/r4quadrant">
+<a href="https://github.com/rickonono3/r4quadrant" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickonono3&repo=r4quadrant&theme=highcontrast&locale=cn&cache_seconds=1800" />
 </a>
 
