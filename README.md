@@ -1,12 +1,39 @@
 # RickoNoNo3
 
-不著名秃头程序员 👉 [**博客地址**](http://rickonono3.top)
+不著名秃头程序员 👉 [**Blog**](http://rickonono3.top) / [**Telegram**](https://t.me/rickonono3)
 
 <a href="#!"><img src="https://img.shields.io/badge/IDE-IntellJ%20IDEA-303030?style=flat-square&logo=IntelliJ%20IDEA" /></a>
+<a href="#!"><img src="https://img.shields.io/badge/Editor-Vim-303030?style=flat-square&logo=Vim" /></a>
 <a href="#!"><img src="https://img.shields.io/badge/Browser-Firefox-303030?style=flat-square&logo=Firefox" /></a>
-<a href="https://t.me/rickonono3" target="_blank" />
-  <img src="https://img.shields.io/badge/Telegram-RickoNoNo3-303030?style=flat-square&logo=Telegram" />
-</a>
+
+<table>
+  <tr>
+    <td colspan=4 align=center><b>Languages / Frameworks</b></td>
+  <tr>
+    <td align=right><a href="#!"><img src="https://img.shields.io/badge/Go-★★★★★-303030?style=flat-square&logo=Go" /></a></td>
+    <td align=right><a href="#!"><img src="https://img.shields.io/badge/C%2B%2B-★★★★★-303030?style=flat-square&logo=C%2B%2B" /></a></td>
+    <td align=right><a href="#!"><img src="https://img.shields.io/badge/JavaScript-★★★★☆-303030?style=flat-square&logo=JavaScript" /></a></td>
+    <td align=right><a href="#!"><img src="https://img.shields.io/badge/React-★★★★☆-303030?style=flat-square&logo=React" /></a></td>
+  </tr>
+  <tr>
+    <td align=right><a href="#!"><img src="https://img.shields.io/badge/jQuery-★★★★☆-303030?style=flat-square&logo=jQuery" /></a></td>
+    <td align=right><a href="#!"><img src="https://img.shields.io/badge/C%23-★★★☆☆-303030?style=flat-square&logo=CSharp" /></a></td>
+    <td align=right><a href="#!"><img src="https://img.shields.io/badge/WPF-★★★☆☆-303030?style=flat-square&logo=Windows" /></a></td>
+    <td align=right><a href="#!"><img src="https://img.shields.io/badge/Java-★★★☆☆-303030?style=flat-square&logo=Java" /></a></td>
+  </tr>
+  <tr>
+    <td align=right><a href="#!"><img src="https://img.shields.io/badge/PHP-★★★☆☆-303030?style=flat-square&logo=PHP" /></a></td>
+    <td align=right><a href="#!"><img src="https://img.shields.io/badge/Spring-★★☆☆☆-303030?style=flat-square&logo=Spring" /></a></td>
+    <td align=right><a href="#!"><img src="https://img.shields.io/badge/Dart-★★☆☆☆-303030?style=flat-square&logo=Dart" /></a></td>
+    <td align=right><a href="#!"><img src="https://img.shields.io/badge/Flutter-★☆☆☆☆-303030?style=flat-square&logo=Flutter" /></a></td>
+  </tr>
+  <tr>
+    <td align=right><a href="#!"><img src="https://img.shields.io/badge/Python-★☆☆☆☆-303030?style=flat-square&logo=Python" /></a></td>
+    <td align=right><a href="#!"><img src="https://img.shields.io/badge/TensorFlow-★☆☆☆☆-303030?style=flat-square&logo=TensorFlow" /></a></td>
+    <td/>
+    <td/>
+  </tr>
+</table>
 
 ## 欢迎合作 (Welcome for Contributing)
 
