@@ -32,6 +32,8 @@
   <tr>
     <td align=right><a href="#!"><img src="https://img.shields.io/badge/Python-★☆☆☆☆-303030?style=flat-square&logo=Python" /></a></td>
     <td align=right><a href="#!"><img src="https://img.shields.io/badge/TensorFlow-★☆☆☆☆-303030?style=flat-square&logo=TensorFlow" /></a></td>
+    <td align=right><a href="#!"><img src="https://img.shields.io/badge/Scala-★☆☆☆☆-303030?style=flat-square&logo=Scala" /></a></td>
+    <td align=right><a href="#!"><img src="https://img.shields.io/badge/Kotlin-★☆☆☆☆-303030?style=flat-square&logo=Kotlin" /></a></td>
     <td/>
     <td/>
   </tr>
