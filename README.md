@@ -43,7 +43,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickonono3&repo=m2obj&theme=highcontrast&locale=cn&cache_seconds=1800" />
 </a>
 &nbsp;
-<a href="https://github.com/rickonono3/killnicely" target="_blank">
+<a href="https://github.com/rickonono3/czmrenamer" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickonono3&repo=czmrenamer&theme=highcontrast&locale=cn&cache_seconds=1800" />
 </a>
 &nbsp;
