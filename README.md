@@ -44,7 +44,7 @@
 </a>
 &nbsp;
 <a href="https://github.com/rickonono3/killnicely" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickonono3&repo=killnicely&theme=highcontrast&locale=cn&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickonono3&repo=czmrenamer&theme=highcontrast&locale=cn&cache_seconds=1800" />
 </a>
 &nbsp;
 <a href="https://github.com/rickonono3/r4quadrant" target="_blank">
