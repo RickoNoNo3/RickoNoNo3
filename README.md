@@ -2,7 +2,7 @@
 
 不著名秃头程序员 👉 [**Blog**](http://rickonono3.top) / [**Telegram**](https://t.me/rickonono3)
 
-<a href="#!"><img src="https://img.shields.io/badge/IDE-IntellJ%20IDEA-303030?style=flat-square&logo=IntelliJ%20IDEA" /></a>
+<a href="#!"><img src="https://img.shields.io/badge/IDE-IntelliJ%20IDEA-303030?style=flat-square&logo=IntelliJ%20IDEA" /></a>
 &nbsp;
 <a href="#!"><img src="https://img.shields.io/badge/Editor-Vim-303030?style=flat-square&logo=Vim" /></a>
 &nbsp;
