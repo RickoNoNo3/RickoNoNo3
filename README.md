@@ -37,7 +37,7 @@
   </tr>
 </table>
 
-## 欢迎合作 (Welcome for Contributing)
+## 欢迎合作 (Welcome for Collaborating)
 
 <a href="https://github.com/rickonono3/m2obj" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickonono3&repo=m2obj&theme=highcontrast&locale=cn&cache_seconds=1800" />
