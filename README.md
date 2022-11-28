@@ -1,12 +1,10 @@
 # RickoNoNo3
 
-不著名秃头程序员 👉 [**Blog**](http://rickonono3.top) / [**Telegram**](https://t.me/rickonono3)
+不著名秃头程序员 👉 [**Blog**](http://rickonono3.top)
 
 <a href="#!"><img src="https://img.shields.io/badge/IDE-IntelliJ%20IDEA-303030?style=flat-square&logo=IntelliJ%20IDEA" /></a>
 &nbsp;
 <a href="#!"><img src="https://img.shields.io/badge/Editor-Vim-303030?style=flat-square&logo=Vim" /></a>
-&nbsp;
-<a href="#!"><img src="https://img.shields.io/badge/Browser-Firefox-303030?style=flat-square&logo=Firefox" /></a>
 
 <table>
   <tr>
@@ -51,10 +49,10 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickonono3&repo=m2obj&theme=highcontrast&locale=cn&cache_seconds=1800" />
 </a>
 &nbsp;
-<a href="https://github.com/rickonono3/czmrenamer" target="_blank">
+<!--<a href="https://github.com/rickonono3/czmrenamer" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickonono3&repo=czmrenamer&theme=highcontrast&locale=cn&cache_seconds=1800" />
-</a>
-&nbsp;
+</a
+&nbsp;-->
 <a href="https://github.com/rickonono3/r4quadrants" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickonono3&repo=r4quadrants&theme=highcontrast&locale=cn&cache_seconds=1800" />
 </a>
