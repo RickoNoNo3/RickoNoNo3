@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td align=right><a href="#!"><img src="https://img.shields.io/badge/jQuery-★★★★☆-303030?style=flat-square&logo=jQuery" /></a></td>
-    <td align=right><a href="#!"><img src="https://img.shields.io/badge/Python-★★★☆☆-303030?style=flat-square&logo=Python" /></a></td>
+    <td align=right><a href="#!"><img src="https://img.shields.io/badge/Python-★★★★☆-303030?style=flat-square&logo=Python" /></a></td>
     <td align=right><a href="#!"><img src="https://img.shields.io/badge/PyTorch-★★★☆☆-303030?style=flat-square&logo=PyTorch" /></a></td>
     <td align=right><a href="#!"><img src="https://img.shields.io/badge/Java-★★★☆☆-303030?style=flat-square&logo=Java" /></a></td>
   </tr>
