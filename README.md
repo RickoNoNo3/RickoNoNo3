@@ -17,21 +17,21 @@
   </tr>
   <tr>
     <td align=right><a href="#!"><img src="https://img.shields.io/badge/jQuery-★★★★☆-303030?style=flat-square&logo=jQuery" /></a></td>
-    <td align=right><a href="#!"><img src="https://img.shields.io/badge/C%23-★★★☆☆-303030?style=flat-square&logo=CSharp" /></a></td>
-    <td align=right><a href="#!"><img src="https://img.shields.io/badge/WPF-★★★☆☆-303030?style=flat-square&logo=Windows" /></a></td>
+    <td align=right><a href="#!"><img src="https://img.shields.io/badge/Python-★★★☆☆-303030?style=flat-square&logo=Python" /></a></td>
+    <td align=right><a href="#!"><img src="https://img.shields.io/badge/PyTorch-★★★☆☆-303030?style=flat-square&logo=PyTorch" /></a></td>
     <td align=right><a href="#!"><img src="https://img.shields.io/badge/Java-★★★☆☆-303030?style=flat-square&logo=Java" /></a></td>
   </tr>
   <tr>
+    <td align=right><a href="#!"><img src="https://img.shields.io/badge/C%23-★★★☆☆-303030?style=flat-square&logo=CSharp" /></a></td>
+    <td align=right><a href="#!"><img src="https://img.shields.io/badge/WPF-★★★☆☆-303030?style=flat-square&logo=Windows" /></a></td>
     <td align=right><a href="#!"><img src="https://img.shields.io/badge/PHP-★★★☆☆-303030?style=flat-square&logo=PHP" /></a></td>
     <td align=right><a href="#!"><img src="https://img.shields.io/badge/Spring-★★☆☆☆-303030?style=flat-square&logo=Spring" /></a></td>
-    <td align=right><a href="#!"><img src="https://img.shields.io/badge/Dart-★★☆☆☆-303030?style=flat-square&logo=Dart" /></a></td>
-    <td align=right><a href="#!"><img src="https://img.shields.io/badge/Flutter-★☆☆☆☆-303030?style=flat-square&logo=Flutter" /></a></td>
   </tr>
   <tr>
-    <td align=right><a href="#!"><img src="https://img.shields.io/badge/Python-★☆☆☆☆-303030?style=flat-square&logo=Python" /></a></td>
     <td align=right><a href="#!"><img src="https://img.shields.io/badge/TensorFlow-★☆☆☆☆-303030?style=flat-square&logo=TensorFlow" /></a></td>
-    <td align=right><a href="#!"><img src="https://img.shields.io/badge/Scala-★☆☆☆☆-303030?style=flat-square&logo=Scala" /></a></td>
     <td align=right><a href="#!"><img src="https://img.shields.io/badge/Kotlin-★☆☆☆☆-303030?style=flat-square&logo=Kotlin" /></a></td>
+    <td align=right><a href="#!"><img src="https://img.shields.io/badge/Dart-★☆☆☆☆-303030?style=flat-square&logo=Dart" /></a></td>
+    <td align=right><a href="#!"><img src="https://img.shields.io/badge/Flutter-★☆☆☆☆-303030?style=flat-square&logo=Flutter" /></a></td>
   </tr>
 </table>
 
