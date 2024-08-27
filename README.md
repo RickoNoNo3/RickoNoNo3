@@ -33,7 +33,7 @@
     <td align=right><a href="#!"><img src="https://img.shields.io/badge/Vue-★★☆☆☆-303030?style=flat-square&logo=Vue.js" /></a></td>
     <td align=right><a href="#!"><img src="https://img.shields.io/badge/PHP-★☆☆☆☆-303030?style=flat-square&logo=PHP" /></a></td>
     <td align=right><a href="#!"><img src="https://img.shields.io/badge/TensorFlow-★☆☆☆☆-303030?style=flat-square&logo=TensorFlow" /></a></td>
-    <td align=right><a href="#!"><img src="https://img.shields.io/badge/Dart|Fultter-★☆☆☆☆-303030?style=flat-square&logo=Flutter" /></a></td>
+    <td align=right><a href="#!"><img src="https://img.shields.io/badge/Dart|Flutter-★☆☆☆☆-303030?style=flat-square&logo=Flutter" /></a></td>
   </tr>
 </table>
 
