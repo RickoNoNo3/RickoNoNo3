@@ -1,6 +1,6 @@
 # RickoNoNo3
 
-不著名秃头程序员 👉 [**Blog**](http://rickonono3.top)
+不著名秃头程序员
 
 <a href="#!"><img src="https://img.shields.io/badge/IDE-IntelliJ%20IDEA-303030?style=flat-square&logo=IntelliJ%20IDEA" /></a>
 &nbsp;
