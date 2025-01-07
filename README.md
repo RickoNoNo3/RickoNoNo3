@@ -60,9 +60,9 @@
     <td><a href="https://github.com/rickonono3/ufset" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickonono3&repo=ufset&theme=highcontrast&locale=cn&cache_seconds=1800" />
     </a></td>
-    <td><a href="https://github.com/rickonono3/tyut-net-connector" target="_blank">
+    <!--<td><a href="https://github.com/rickonono3/tyut-net-connector" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickonono3&repo=tyut-net-connector&theme=highcontrast&locale=cn&cache_seconds=1800" />
-    </a></td>
+    </a></td>-->
   </tr>
 </table>
 
