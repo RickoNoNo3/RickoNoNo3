@@ -44,7 +44,7 @@
     <td><a href="https://github.com/rickonono3/react-winbox" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickonono3&repo=react-winbox&theme=highcontrast&locale=cn&cache_seconds=1800" />
     </a></td>
-    <td><a href="https://github.com/rickonono3/consulize" target="_blank">
+    <td><a href="https://github.com/rickonono3/docpanel" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickonono3&repo=docpanel&theme=highcontrast&locale=cn&cache_seconds=1800" />
     </a></td>
   </tr>
@@ -60,7 +60,7 @@
     <td><a href="https://github.com/rickonono3/ufset" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickonono3&repo=ufset&theme=highcontrast&locale=cn&cache_seconds=1800" />
     </a></td>
-    <td><a href="https://github.com/rickonono3/tyut-net-connector" target="_blank">
+    <td><a href="https://github.com/rickonono3/consulize" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickonono3&repo=consulize&theme=highcontrast&locale=cn&cache_seconds=1800" />
     </a></td>
   </tr>
