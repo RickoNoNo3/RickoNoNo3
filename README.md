@@ -4,7 +4,7 @@
 
 <a href="#!"><img src="https://img.shields.io/badge/IDE-IntelliJ%20IDEA-303030?style=flat-square&logo=IntelliJ%20IDEA" /></a>
 &nbsp;
-<a href="#!"><img src="https://img.shields.io/badge/Editor-VS%20Code-303030?style=flat-square&logo=visualstudiocode" /></a>
+<a href="#!"><img src="https://img.shields.io/badge/Editor-Vim-303030?style=flat-square&logo=vim" /></a>
 &nbsp;
 <a href="#!"><img src="https://img.shields.io/badge/Note-Joplin-303030?style=flat-square&logo=Joplin" /></a>
 
@@ -19,15 +19,15 @@
   </tr>
   <tr>
     <td align=right><a href="#!"><img src="https://img.shields.io/badge/jQuery-★★★★☆-303030?style=flat-square&logo=jQuery" /></a></td>
-    <td align=right><a href="#!"><img src="https://img.shields.io/badge/Java-★★★★☆-303030?style=flat-square&logo=Java" /></a></td>
+    <td align=right><a href="#!"><img src="https://img.shields.io/badge/Java(OpenJDK)-★★★★☆-303030?style=flat-square&logo=openjdk" /></a></td>
     <td align=right><a href="#!"><img src="https://img.shields.io/badge/Python-★★★★☆-303030?style=flat-square&logo=Python" /></a></td>
     <td align=right><a href="#!"><img src="https://img.shields.io/badge/PyTorch-★★★☆☆-303030?style=flat-square&logo=PyTorch" /></a></td>
   </tr>
   <tr>
     <td align=right><a href="#!"><img src="https://img.shields.io/badge/Spring-★★★☆☆-303030?style=flat-square&logo=Spring" /></a></td>
     <td align=right><a href="#!"><img src="https://img.shields.io/badge/Kotlin-★★★☆☆-303030?style=flat-square&logo=Kotlin" /></a></td>
-    <td align=right><a href="#!"><img src="https://img.shields.io/badge/C%23-★★★☆☆-303030?style=flat-square&logo=CSharp" /></a></td>
-    <td align=right><a href="#!"><img src="https://img.shields.io/badge/WPF-★★★☆☆-303030?style=flat-square&logo=Windows" /></a></td>
+    <td align=right><a href="#!"><img src="https://img.shields.io/badge/C%23|WPF-★★★☆☆-303030?style=flat-square&logo=rider" /></a></td>
+    <td align=right><a href="#!"><img src="https://img.shields.io/badge/Unity-★★★☆☆-303030?style=flat-square&logo=Unity" /></a></td>
   </tr>
   <tr>
     <td align=right><a href="#!"><img src="https://img.shields.io/badge/Vue-★★☆☆☆-303030?style=flat-square&logo=Vue.js" /></a></td>
