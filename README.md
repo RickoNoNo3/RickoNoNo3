@@ -37,7 +37,7 @@
   </tr>
 </table>
 
-## 欢迎合作 (Welcome for Collaborating)
+<!--## 欢迎合作 (Welcome for Collaborating)
 
 <table>
   <tr>
@@ -67,16 +67,16 @@
 </table>
 
 -----
-
-<table>
+-->
+<!--<table>-->
 <!--   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=rickonono3&count_private=true&show_icons=true&include_all_commits=true&custom_title=RickoNoNo3%20%E7%9A%84%E6%91%B8%E9%B1%BC%E7%BB%9F%E8%AE%A1&theme=highcontrast&locale=cn&cache_seconds=1800" /></td>  
   </tr> -->
-  <tr>
+  <!--<tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickonono3&theme=highcontrast&layout=compact&exclude_repo=R-Blog-Public-Library,R-Blog-IconFont,R-Blog-MathJax-Fonts,RZ-Blog,xv6-chinese,jquery-csv&count_private=true&langs_count=8&locale=cn&cache_seconds=1800&hide=css,less,html" /></td>
   </tr>
 </table>
 
-
+-->
 
 
